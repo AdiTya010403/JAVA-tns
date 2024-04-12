@@ -6,4 +6,4 @@ class day01
 	{
 		System.out.println("HelloWorld");
 	}
-}
+}	
